@@ -11,3 +11,9 @@ Route::get('/setup', function () {
 Route::get('/setup2', function () {
     return view('video2');
 });
+Route::get('/prac1', function () {
+    return view('practice1');
+});
+Route::get('/work1', function () {
+    return view('work1');
+});

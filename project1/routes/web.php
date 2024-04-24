@@ -17,3 +17,6 @@ Route::get('/prac1', function () {
 Route::get('/work1', function () {
     return view('work1');
 });
+Route::get('/work2', function () {
+    return view('work2');
+});

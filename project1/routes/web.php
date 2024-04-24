@@ -20,3 +20,6 @@ Route::get('/work1', function () {
 Route::get('/work2', function () {
     return view('work2');
 });
+Route::get('/footer', function () {
+    return view('footer');
+});

@@ -23,3 +23,6 @@ Route::get('/work2', function () {
 Route::get('/footer', function () {
     return view('footer');
 });
+Route::get('/feedback', function () {
+    return view('feedback');
+});

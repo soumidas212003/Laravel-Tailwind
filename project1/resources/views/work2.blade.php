@@ -50,7 +50,7 @@
         <div class="flex py-20 ">
             <div class="border">
                 <form action="" class="flex flex-col border-2 px-7 justify-center shadow-lg h-[33rem]">
-                    <p class="my-2 font-bold text-xl mx-auto text-orange-600 md:text-2xl" >Signup as Pet Adaptor</p>
+                    <p class="my-2 font-bold text-xl mx-auto text-orange-600 md:text-2xl" >Signup as Pet Adopter</p>
                     <lable class="mt-3 font-bold">Full Name: <span class="text-red-600">*</span></lable>
                     <input type="text" class="shadow-md border-2  outline-orange-500 rounded-md px-4 h-10 w-60 " placeholder="Full Name">
                     <lable class=" font-bold">Email Address: <span class="text-red-600">*</span></lable>

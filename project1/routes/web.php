@@ -26,3 +26,6 @@ Route::get('/footer', function () {
 Route::get('/feedback', function () {
     return view('feedback');
 });
+Route::get('/profile', function () {
+    return view('profile');
+});
